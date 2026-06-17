@@ -26,3 +26,6 @@ Dự án đã xây dựng và chạy thành công tối thiểu 03 kịch bản 
 1. Cài đặt các thư viện cần thiết:
    ```bash
    pip install selenium pytest
+
+## 6. Ảnh minh chứng 
+<img width="1920" height="1080" alt="Screenshot 2026-06-17 170021" src="https://github.com/user-attachments/assets/b7c61ab8-8b8d-498d-831c-9c898207bd06" />
