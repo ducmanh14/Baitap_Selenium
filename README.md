@@ -23,7 +23,7 @@ Dự án đã xây dựng và chạy thành công tối thiểu 03 kịch bản 
 | 3 | `test_logout` | 1. Đăng nhập thành công vào hệ thống.<br>2. Trên giao diện Secure Area, bấm nút "Logout". | Hệ thống đăng xuất thành công, đưa về trang Login và hiển thị thông báo: "You logged out of the secure area!" | **Passed** (Thành công) |
 
 ## 5. Hướng dẫn cài đặt và chạy thử code trên máy local
-1. Cài đặt các thư viện cần thiết: `pip install selenium pytest`
-2. Mở terminal tại thư mục chứa file code và thực hiện lệnh chạy test:
-   ```bash
-   python -m pytest -v test_web.py
+1. Cài đặt các thư viện cần thiết:
+```bash
+   pip install selenium pytest
+<img width="1920" height="1080" alt="Screenshot 2026-06-17 170021" src="https://github.com/user-attachments/assets/f2a8b06a-a7ef-4750-a920-a8328b5e2cad" />
