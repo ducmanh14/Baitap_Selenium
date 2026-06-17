@@ -24,6 +24,5 @@ Dự án đã xây dựng và chạy thành công tối thiểu 03 kịch bản 
 
 ## 5. Hướng dẫn cài đặt và chạy thử code trên máy local
 1. Cài đặt các thư viện cần thiết:
-```bash
+   ```bash
    pip install selenium pytest
-<img width="1920" height="1080" alt="Screenshot 2026-06-17 170021" src="https://github.com/user-attachments/assets/f2a8b06a-a7ef-4750-a920-a8328b5e2cad" />
